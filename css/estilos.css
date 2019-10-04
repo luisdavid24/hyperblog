@@ -1,5 +1,5 @@
 body{
-    color:#333;
+    color:rgb(51, 51, 51);
     text-align: center;
     font-family: "curier";
     margin:0;
@@ -16,7 +16,7 @@ body{
     font-size: 20px;
 }
 .cabecera{
-    background: rgb(202, 85, 85);
+    background: rgb(85, 188, 202);
     border: 2px solid orangered;
 
 }
